@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<widget xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" id="com.moodle.moodlemobile" version="3.4.2">
-  <name>Moodle Mobile</name>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0" id="labser.moodlecloud.com/" version="3.4.2">
+  <name>Labser Aula Virtual</name>
   <description>
-        Moodle Mobile official app
+        Labser Aula Virtual
     </description>
-  <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Mobile team
+  <author href="www.labser.es" email="consultoria2@labser.es">
+        Héctor Gómez Labser
     </author>
   <content src="index.html"/>
   <access origin="*"/>
